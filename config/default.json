@@ -1,0 +1,4 @@
+{
+    "JWT_SECRET": "iwdncnkamjsadoowmw",
+    "MONGO_URI": "mongodb+srv://harshada_123:harshada_123@quiz-73xpg.mongodb.net/quizdb?retryWrites=true&w=majority"
+}
