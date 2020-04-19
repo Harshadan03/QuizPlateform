@@ -1,4 +1,4 @@
-const REACT_APP_API_URL = "http://localhost:8000/api"
+const REACT_APP_API_URL = "/api"
 
 export const getQuestions = (userId, token) => {
     return fetch(`${REACT_APP_API_URL}/ques/find/${userId}`, {
