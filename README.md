@@ -10,6 +10,10 @@
 
 >>This website is made with React.js, Node.js, Express and  MongoDB is used for storing the user and questions.
 
->> You can clone this project on your pc
->> Then install all the dependencies mentioned in package.json
->> Then run it using >> "npm run dev"
+>> You can clone this project on your pc.
+>> Then install all the dependencies mentioned in package.json.
+>> Then run it using >> "npm run dev" .
+
+>> Use this Admin credentials to login as admin
+   username: harshada.n03@gmail.com
+   password : 1234567
